@@ -9,10 +9,11 @@ public class SumNum {
         System.out.println("How many numbers do you want to add");
         int n = sc.nextInt();
         for (int i = 0 ; i<n; ++i){
-            System.out.println("Enter the first number");
+            System.out.println("Enter a number");
             input = sc.nextInt();
             sum+=input;
         }
         System.out.println("The sum is"+sum);
     }
 }
+//

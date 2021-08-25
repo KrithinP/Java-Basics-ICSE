@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Volume {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter 1 to calculate the volume of a cubloid, 2 to calculate cylinder, 3 calculate cone");
+        System.out.println("Enter 1 to calculate the volume of a cuboid, 2 to calculate cylinder, 3 calculate cone");
         int v = sc.nextInt();
         double volume = 0.0,length = 0.0, breadth = 0.0, height = 0.0, radius = 0.0;
 

@@ -3,7 +3,6 @@ package com.company;
 import java.util.Scanner;
 
 public class Money {
-  //  public static double a ;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the total principal of the bill ");

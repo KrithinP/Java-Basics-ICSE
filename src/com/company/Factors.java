@@ -8,7 +8,7 @@ public class Factors {
         System.out.println("Input the number to find the factors of a number");
         int input = sc.nextInt();
         System.out.println("The factors of a number are");
-        for (int i = 1; i <= input; ++i) {
+        for (double i = 1; i <= input; ++i) {
             if (input / i == (int) (input / i)) {
                 System.out.print(i + " ");
             }
