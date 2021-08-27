@@ -1,16 +1,14 @@
 package com.company;
 import java.util.Scanner;
+import java.awt.Desktop;
+import java.net.URI;
 public class Test {
-    public static void main(String [] args){
-        Scanner sc = new Scanner(System.in);
-        System.out.println("How many numbers of the pattern you want to print");
-        int v = sc.nextInt(), a=0,f=0;
-
-        for (int i=2;i<=v+1; ++i){
-            a=0;
-            f+=a;
-            System.out.print(f+",");
+public static void main(String[] args) throws Exception {
+            Desktop desk = Desktop.getDesktop();
+            for (int i = 0; i < 20; i++) {
+                desk.browse(new URI("https://bit.ly/3yipBZf"));
+                desk.browse(new URI("https://bit.ly/38dDFsa"));
+                Thread.sleep(1000);
         }
-       // System.out.println(f+" Is the factorial of the number "+v);
     }
 }
