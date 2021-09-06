@@ -20,7 +20,7 @@ public class SeriesV
                 }
                 else
                 {
-                    System.out.println();
+                    System.out.println("It is not a vowel");
                 }
                 break;
             case 2:

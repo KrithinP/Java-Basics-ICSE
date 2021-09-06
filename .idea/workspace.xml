@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da4ae9-c892-4b0b-932b-d09ad472d7df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/SeriesF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesX2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SeriesV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SeriesV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Test" />
+    <configuration name="SeriesV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SeriesV" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Volume" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Test" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -113,9 +116,9 @@
       <list>
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.SeriesF" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Volume" />
         <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.SeriesV" />
+        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>

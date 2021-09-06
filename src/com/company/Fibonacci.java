@@ -7,14 +7,14 @@ public class Fibonacci {
     {
         Scanner sc = new Scanner(System.in);
 
-        int num1=0,num2=1,num3=0,i=0,count=10;
+        int num1=0,num2=1,num3=0,i=0,count=0;
         System.out.println("1 for fibonacci series, 2 for sum of x/odd numbers");
         int ch = sc.nextInt();
         switch (ch){
             case 1:
                 System.out.println("How many terms do you want to print after 0 and 1");
                 count= sc.nextInt();
-                System.out.print(num1+" "+num2);
+                System.out.print(num1+" , "+num2);
 
                 for(i=0;i<count;++i)
                 {
@@ -37,7 +37,7 @@ public class Fibonacci {
                     //System.out.println(g);
                     finalV +=g;
                 }
-                System.out.println(finalV);
+                System.out.println("Sum is"+finalV);
                 break;
             default:
                 System.out.println("Invalid Number");
