@@ -10,7 +10,8 @@ public class SeriesX {
         System.out.println("What is the value of x?");
         int x = sc.nextInt();
         double finalV= 0;
-        for (int i = 1; i <= n; ++i) {
+        for (int i = 1; i <= n; ++i)
+        {
             double f =  (1.0/(Math.pow(x,i)));
          //   System.out.println(f);
             finalV+=f;

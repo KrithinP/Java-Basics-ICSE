@@ -1,14 +1,15 @@
 package com.company;
 
-public class Test {
-public static void main(String []args) {
-    double n=0.0d;
-        if(n==1|| 4 == n){
-            System.out.println(65=='A');
-        }
-        else{
-            System.out.println("Hmm");
-        }
+import java.util.Scanner;
 
+public class Test {
+    public static void main (String [] args){
+        Compute();
+    }
+public static void Compute() {
+    int n1 =20, n2=30;
+    for(int i=1; i<n2-n1 ;i++){
+        System.out.println(n1-i);
+    }
     }
 }
