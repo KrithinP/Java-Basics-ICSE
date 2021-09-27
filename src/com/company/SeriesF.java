@@ -7,17 +7,21 @@ public class SeriesF {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the no. of terms");
         int v = sc.nextInt();
-        double x =2, f =0.0;
+        double x =2, f =1;
+        System.out.println("Enter the value of x");
+        x=sc.nextInt();
         double finalV = 0.0;
 
         for (int i=1;i<=v; ++i){
             f=f*i;
-            if (i%2 == 0){
+            if (i%2 == 0)
+            {
                 finalV -= Math.pow(x,i)/(f);
                 System.out.println(finalV);
             }
-            else{
-                finalV -= Math.pow(x,i)/(f);
+            else
+            {
+                finalV += Math.pow(x,i)/(f);
                 System.out.println(finalV);
             }
 
