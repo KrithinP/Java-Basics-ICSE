@@ -1,7 +1,6 @@
 package com.company;
 
 import java.util.Scanner;
-import java.util.Scanner;
 
 public class LargeMin {
     public static void main(String[] args) {

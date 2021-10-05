@@ -17,13 +17,12 @@ public class SeriesF {
             if (i%2 == 0)
             {
                 finalV -= Math.pow(x,i)/(f);
-                System.out.println(finalV);
             }
             else
             {
                 finalV += Math.pow(x,i)/(f);
-                System.out.println(finalV);
             }
+            System.out.println(finalV);
 
 
         }
