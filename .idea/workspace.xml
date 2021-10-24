@@ -2,38 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da4ae9-c892-4b0b-932b-d09ad472d7df" name="Default Changelist" comment="Commit 27/9/21">
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhileFaceValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhileReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/While_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BreakProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ContinueProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DoWhilePallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SumBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Factors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Factors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/LargeMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/LargeMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Money.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Square.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/UnicodeTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Factors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LargeMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LargeMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/WhileFaceValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/WhileFaceValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/WhileReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/WhileReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/WhileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/WhileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Money.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/SeriesF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SeriesF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/UnicodeTester.java" beforeDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/SeriesX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SeriesF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SeriesF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SeriesX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SeriesX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test2.java" afterDir="false" />
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
+      <change beforePath="$PROJECT_DIR$/src/com/company/WhileFaceValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhileFaceValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WhileReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/WhileReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,15 +65,9 @@
       <recent name="C:\Users\apool\Documents\GitHub\Java-Basics-ICSE" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.WhileTest">
-    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Prime" />
-=======
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Fibonacci" />
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
+  <component name="RunManager" selected="Application.SumBreak">
+    <configuration name="BreakProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BreakProg" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Test2" />
-=======
-    <configuration name="SeriesF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SeriesF" />
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Square" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="WhileFaceValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.WhileFaceValue" />
-=======
-    <configuration name="SeriesV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SeriesV" />
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
+    <configuration name="SumBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SumBreak" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -136,13 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="WhileReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.WhileReverse" />
-=======
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Test" />
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
+    <configuration name="Taxi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Taxi" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -154,13 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.WhileTest" />
-=======
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Test2" />
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
+    <configuration name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.World" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -174,19 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.WhileTest" />
-        <item itemvalue="Application.WhileFaceValue" />
-        <item itemvalue="Application.WhileReverse" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Prime" />
-=======
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.SeriesF" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.SeriesV" />
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
+        <item itemvalue="Application.SumBreak" />
+        <item itemvalue="Application.BreakProg" />
+        <item itemvalue="Application.World" />
+        <item itemvalue="Application.Taxi" />
+        <item itemvalue="Application.Square" />
       </list>
     </recent_temporary>
   </component>

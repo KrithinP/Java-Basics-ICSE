@@ -21,10 +21,8 @@ public class SeriesF {
             else
             {
                 finalV += Math.pow(x,i)/(f);
-<<<<<<< HEAD
-=======
+
                 System.out.println(finalV);
->>>>>>> afb04a1f21105d881b24b14deb95b6984261c074
             }
             System.out.println(finalV);
 

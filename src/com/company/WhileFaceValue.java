@@ -18,6 +18,6 @@ public class WhileFaceValue {
             number = number/10;
         }
 
-        System.out.println("The reverse number is" + FinalNo);
+        System.out.println("The face value is" + FinalNo);
     }
 }
