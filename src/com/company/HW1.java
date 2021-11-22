@@ -10,7 +10,6 @@ public class HW1 {
             {
                 System.out.print(j + " ");
                 --f;
-
             }
             e++;
             System.out.println();

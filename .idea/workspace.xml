@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da4ae9-c892-4b0b-932b-d09ad472d7df" name="Default Changelist" comment="Commit 27/9/21">
+      <change afterPath="$PROJECT_DIR$/src/com/company/automorphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HW1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       <recent name="C:\Users\apool\Documents\GitHub\Java-Basics-ICSE" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW1">
+  <component name="RunManager" selected="Application.automorphic">
     <configuration name="BreakProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.BreakProg" />
       <module name="Java-Basics-ICSE" />
@@ -89,19 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taxi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Taxi" />
-      <module name="Java-Basics-ICSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.World" />
       <module name="Java-Basics-ICSE" />
@@ -115,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="automorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.automorphic" />
+      <module name="Java-Basics-ICSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.automorphic" />
         <item itemvalue="Application.HW1" />
         <item itemvalue="Application.SumBreak" />
         <item itemvalue="Application.BreakProg" />
         <item itemvalue="Application.World" />
-        <item itemvalue="Application.Taxi" />
       </list>
     </recent_temporary>
   </component>
