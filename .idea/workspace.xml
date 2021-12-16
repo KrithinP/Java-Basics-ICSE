@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da4ae9-c892-4b0b-932b-d09ad472d7df" name="Default Changelist" comment="Commit 27/9/21">
-      <change afterPath="$PROJECT_DIR$/src/com/company/automorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/GCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HW1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/automorphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/automorphic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/automorphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/automorphic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +54,9 @@
       <recent name="C:\Users\apool\Documents\GitHub\Java-Basics-ICSE" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.automorphic">
-    <configuration name="BreakProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.BreakProg" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GCD" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.World" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Test" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GCD" />
         <item itemvalue="Application.automorphic" />
         <item itemvalue="Application.HW1" />
         <item itemvalue="Application.SumBreak" />
-        <item itemvalue="Application.BreakProg" />
-        <item itemvalue="Application.World" />
       </list>
     </recent_temporary>
   </component>
