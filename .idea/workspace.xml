@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da4ae9-c892-4b0b-932b-d09ad472d7df" name="Default Changelist" comment="Commit 27/9/21">
-      <change afterPath="$PROJECT_DIR$/src/com/company/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/fibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/menuExmp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Bill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Shop.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/automorphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/automorphic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Shop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/automorphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/automorphic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +61,22 @@
       <recent name="C:\Users\apool\Documents\GitHub\Java-Basics-ICSE" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.fibonacciSeries">
+    <configuration name="Bill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Bill" />
+      <module name="Java-Basics-ICSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.GCD" />
-      <module name="Java-Basics-ICSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HW1" />
-      <module name="Java-Basics-ICSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SumBreak" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="automorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.automorphic" />
+    <configuration name="fibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.fibonacciSeries" />
+      <module name="Java-Basics-ICSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menuExmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.menuExmp" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacciSeries" />
+        <item itemvalue="Application.menuExmp" />
+        <item itemvalue="Application.Bill" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.automorphic" />
-        <item itemvalue="Application.HW1" />
-        <item itemvalue="Application.SumBreak" />
       </list>
     </recent_temporary>
   </component>

@@ -42,7 +42,7 @@ public class Fibonacci {
             default:
                 System.out.println("Invalid Number");
         }
-
+            System.out.println("iF tHiS sTaTeMeNt PrInTs ThEn ThE cRaP i WrOtE wOrKs");
 
     }
 }

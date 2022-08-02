@@ -8,12 +8,12 @@ public class GCD {
         System.out.println("Enter the 2 numbers");
         int a = sc .nextInt();
         int b = sc.nextInt();
-        int t =0;
+        int rem =0;
         while(a%b !=0)
         {
-            t=a%b;
+            rem=a%b;
             a=b;
-            b=t;
+            b=rem;
 
         }
         System.out.println("The gcd is "+b);

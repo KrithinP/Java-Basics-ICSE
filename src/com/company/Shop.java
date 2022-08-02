@@ -10,6 +10,8 @@ public class Shop {
 
             switch (ch) {
                 case 'G':
+
+                case 'g':
                     System.out.println("Kid's Wear");
                     break;
                 case 'F':

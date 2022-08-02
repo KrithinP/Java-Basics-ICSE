@@ -37,10 +37,8 @@ public class Bill {
                         if (u > 0) {
                             amntD = (u * 8.5) + amntC;
                             System.out.println("The amount is " + amntD);
-                        } else
-                        {
-                            return;
                         }
+                        else System.out.println("The amount is " +amntC);
                     }
 
                 }
