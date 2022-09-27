@@ -11,6 +11,8 @@ public class Book {
 
     public static void input()
     {
+        int a=10,b=39,c=45;
+        int max = (a>b)? (a>c)?a:c : (b>c)?b:c;
         Book book = new Book();
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter name of the book");
