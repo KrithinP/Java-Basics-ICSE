@@ -1,12 +1,12 @@
 package com.company;
+import jdk.swing.interop.SwingInterOpUtils;
+
+import java.util.Arrays;
 import java.util.Scanner;
 public class Test {
     public static void main(String[] args)
     {
-        int a = 10;
-        int b = 15, c = 20;
-
-        if(a++ < c || --c > --b) System.out.println(a+" "+b+c);
+        System.out.println("CABLE".compareTo("CADET"));
 
 
     }
