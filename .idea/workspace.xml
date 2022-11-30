@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da4ae9-c892-4b0b-932b-d09ad472d7df" name="Default Changelist" comment="Commit 27/9/21">
-      <change afterPath="$PROJECT_DIR$/src/com/company/PigLatin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StringBubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StringPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StringPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Phonebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +51,22 @@
       <recent name="C:\Users\apool\Documents\GitHub\Java-Basics-ICSE" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringBubbleSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.BubbleSort" />
+  <component name="RunManager" selected="Application.Phonebook">
+    <configuration name="Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Frequency" />
+      <module name="Java-Basics-ICSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Phonebook" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -97,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.StringPalindrome" />
-      <module name="Java-Basics-ICSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.StringPattern" />
       <module name="Java-Basics-ICSE" />
@@ -125,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Phonebook" />
+        <item itemvalue="Application.Frequency" />
         <item itemvalue="Application.StringBubbleSort" />
         <item itemvalue="Application.PigLatin" />
         <item itemvalue="Application.StringPattern" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.StringPalindrome" />
       </list>
     </recent_temporary>
   </component>
