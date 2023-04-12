@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86da4ae9-c892-4b0b-932b-d09ad472d7df" name="Default Changelist" comment="Commit 27/9/21">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ProjRev4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ProjString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Pattern1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/BinarySearch.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Phonebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Phonebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/GCD.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Basics-ICSE/com/company/Test2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Phonebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Phonebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/GCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Test2.java" afterDir="false" />
     </list>
@@ -62,20 +61,7 @@
       <recent name="C:\Users\apool\Documents\GitHub\Java-Basics-ICSE" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.BinarySearch" />
-      <module name="Java-Basics-ICSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.BubbleSort" />
       <module name="Java-Basics-ICSE" />
@@ -89,8 +75,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjRev4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ProjRev4" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Fibonacci" />
+      <module name="Java-Basics-ICSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GCD" />
+      <module name="Java-Basics-ICSE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Pattern" />
       <module name="Java-Basics-ICSE" />
       <extension name="coverage">
         <pattern>
@@ -115,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Test2" />
-      <module name="Java-Basics-ICSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ProjRev4" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Application.GCD" />
       </list>
     </recent_temporary>
   </component>

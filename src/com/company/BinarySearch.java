@@ -11,7 +11,7 @@ public class BinarySearch {
         System.out.println("Enter the number you are searching for");
         int n = sc.nextInt();
 
-        int i = 0;
+
         int e = a.length, s = 0, mid;
 
         do
@@ -19,7 +19,7 @@ public class BinarySearch {
             mid = (s+e)/2;
 
                  if
-                     (s==e || s>e||i >a.length )
+                     ( s>e )
                  {
                      System.out.println("Does not exist");
                      break;

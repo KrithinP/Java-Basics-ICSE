@@ -16,6 +16,6 @@ public class GCD {
             b=rem;
 
         }
-        System.out.println("The gcd is "+b);
+        System.out.println("The gcd is "+b + " dhdh"+a);
     }
 }
